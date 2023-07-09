@@ -31,3 +31,26 @@ body{
     border-radius: 5px;
 
 }
+
+.dream-dig{
+    display: flex;
+    padding: 17px;
+    justify-content: space-around;
+    
+
+}
+
+.Experince-area{
+    padding: 40px;
+    justify-content: space-between;
+    margin-top: 35px;
+    
+}
+.content{
+    display: flex;
+}
+.crossorigin{
+    box-shadow: 5px 10px 20px rgb(197, 179, 179) inset;
+    padding: 29px;
+    text-align: justify;
+}
